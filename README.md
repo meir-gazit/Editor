@@ -1,3 +1,3 @@
 # Editor
 
-code editor folowing tephen Grider typescript learning path
+code editor folowing Stephen Grider typescript learning path
